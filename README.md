@@ -180,7 +180,7 @@
 ## 🌟 Featured Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,postgres,redis,firebase,dotnet,cs,fastapi,ts,angular,dart,flutter,figma,visualstudio,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,postgres,redis,firebase,dotnet,cs,fastapi,rabbitmq,ts,angular,dart,flutter,figma,visualstudio,vscode&theme=dark"/>
 </p>
 
 ---
