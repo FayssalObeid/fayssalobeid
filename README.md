@@ -66,10 +66,9 @@
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
   
 </p>
 
@@ -82,12 +81,12 @@
 <p align="center">
 
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+ ![Asp.Net Core](https://img.shields.io/badge/-ASP.NET--Core-999?style=for-the-badge&logo=Microsoft&logoColor=white)
  ![Abp Framework](https://img.shields.io/badge/.ABPFramework-5C2D91?style=for-the-badge&logo=AbpFramework&logoColor=white)
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
- ![Asp.Net Core](https://img.shields.io/badge/-ASP.NET--Core-999?style=for-the-badge&logo=Microsoft&logoColor=white)
+ ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
  ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
- ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
  
 </p>
@@ -137,11 +136,69 @@
 <br>
 
 <p align="center">
-
+  <img src="https://img.shields.io/badge/ml_.net-cc?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/semantic_kernel-1425?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kaggle-1C3C3C?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
+</p>
 
 </p>
 
 </details>
+
+
+---
+
+## 🏆 Professional Journey
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+### 🎯 Certifications & Achievements
+
+- ✅ **AI Agent**
+- ✅ **AI workflow orchestration**
+- ✅ **Entreprise Architect**
+
+---
+
+## 🎨 Current Focus
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
+🔭 **Building:** RAG systems for enterprise applications
+
+🌱 **Learning:** Latest developments in LLM fine-tuning and optimization
+
+💡 **Exploring:** Multimodal AI
+
+📝 **Writing:** Technical articles
+
+<br clear="right"/>
+
+---
+
+## 🌟 Featured Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,postgres,redis,firebase,dotnet,cs,fastapi,ts,angular,dart,flutter,figma,visualstudio,vscode&theme=dark"/>
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+> *"Innovation distinguishes between a leader and a follower."*
+> 
+> **Building intelligent systems that create meaningful impact**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+### ⚡ Let's Build the Future of Tech Together
+
+</div>
 
 
 
