@@ -81,7 +81,7 @@
 
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
  ![Asp.Net Core](https://img.shields.io/badge/-ASP.NET--Core-999?style=for-the-badge&logo=Microsoft&logoColor=white)
- ![Abp Framework](https://img.shields.io/badge/.ABPFramework-5C2D91?style=for-the-badge&logo=AbpFramework&logoColor=white)
+ ![Abp Framework](https://img.shields.io/badge/ABP_Framework-5C2D91?style=for-the-badge&logo=AbpFramework&logoColor=white)
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -157,7 +157,7 @@
 
 - ✅ **AI Agent**
 - ✅ **AI workflow orchestration**
-- ✅ **Entreprise Architect**
+- ✅ **Microsoft Full-Stack Developer**
 
 ---
 
