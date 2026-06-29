@@ -85,7 +85,7 @@
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
  
 </p>
@@ -119,12 +119,16 @@
 
 <p align="center">
   
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Microft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 </p>
 </details>
@@ -135,10 +139,17 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ml_.net-cc?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/semantic_kernel-1425?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kaggle-1C3C3C?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
+  
+  ![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+  ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
+  ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge)
+  ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+  ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+  ![🤗 Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+
 </p>
 
 </p>
@@ -180,7 +191,7 @@
 ## 🌟 Featured Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,postgres,redis,firebase,dotnet,cs,fastapi,rabbitmq,ts,angular,dart,flutter,figma,visualstudio,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,gcp,terraform,git,githubactions,terraform,postgres,mysql,sqlite,redis,firebase,dotnet,cs,py,fastapi,rabbitmq,ts,angular,dart,flutter,figma,gradle,visualstudio,vscode,npm,yarn&theme=dark"/>
 </p>
 
 ---
